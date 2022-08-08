@@ -2825,10 +2825,10 @@ input, select, textarea {
 		}
 
 		.main.style2 {
-			background-color: rgb(20, 20, 20);
-			color: #ffffff;
+			background-color: rgb(0, 0, 0);
+			color: #fff6f6;
 			background-attachment: fixed,							fixed;
-			background-image: url("assets/css/images/1094318.jpg");
+			background-image:url('/Volumes/Garcia HD/Portfolio {Code}/The High Score/assets/css/images/1094318.jpg');
 			background-size: auto,cover;
 			padding-left: 10em;
 			font-size: 1em;
@@ -2920,7 +2920,7 @@ input, select, textarea {
 	#header {
 		padding: 9em 0 9em 0 ;
 		background-color: #020202;
-		color: rgba(255, 255, 255, 0.75);
+		color: rgba(0, 0, 0, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
 		background-image: url("images/Arcade  Wallpaper 1.jpg");
 		background-position: top left,						center center,					center center;
@@ -3115,18 +3115,20 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 3em 0 0em 0 ;
+		padding: 3em 0 2em 0 ;
 		background-color: #4686a0;
-		color: rgba(255, 255, 255, 0.75);
+		color: rgb(255, 251, 251);
+		font-size: 1.5em;
+		font-weight: 700;
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/assets/css/images/Mario Footer (1).jpg");
-		background-position: top left,						center center,					center center;
+		background-image: url("/Volumes/Garcia HD/Portfolio {Code}/The High Score/assets/css/images/Mario Footer (1).jpg");
+		background-position:left bottom,						center bottom,					center bottom;
 		background-size: auto,							cover,							cover;
 		text-align: center;
 	}
 
 		#footer a {
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			border-bottom-color: rgba(0, 0, 0, 0.5);
 		}
 
 			#footer a:hover {
@@ -3134,11 +3136,11 @@ input, select, textarea {
 			}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
-			color: #ffffff;
+			color: #0c0c0c;
 		}
 
 		#footer header p {
-			color: #ffffff;
+			color: #0a0a0a;
 		}
 
 		#footer header.major:after {
