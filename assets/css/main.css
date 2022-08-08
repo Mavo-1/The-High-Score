@@ -2828,7 +2828,7 @@ input, select, textarea {
 			background-color: rgb(20, 20, 20);
 			color: #ffffff;
 			background-attachment: fixed,							fixed;
-			background-image: url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/assets/css/images/1094318.jpg"), url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/assets/css/images/782956.jpg");
+			background-image: url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/assets/css/images/1094318.jpg");
 			background-size: auto,cover;
 			padding-left: 10em;
 			font-size: 1em;
@@ -3119,7 +3119,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/images/Mario Footer (1).jpg");
+		background-image: url("C:/Users/mavoh/OneDrive/Desktop/Portfolio {Code}/The High Score/assets/css/images/Mario Footer (1).jpg");
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
