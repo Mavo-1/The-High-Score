@@ -2836,7 +2836,7 @@ input, select, textarea {
 		}
 
 			.main.style2 a {
-				border-bottom-color: rgb(255, 253, 253);
+				border-bottom-color: rgb(26, 25, 25);
 			}
 
 				.main.style2 a:hover {
@@ -2869,7 +2869,7 @@ input, select, textarea {
 				.main.style2 input[type="button"]:hover,
 				.main.style2 button:hover,
 				.main.style2 .button:hover {
-					background-color: rgba(255, 255, 255, 0.125);
+					background-color: rgba(255, 255, 255, 0.932);
 				}
 
 				.main.style2 input[type="submit"]:active,
@@ -3121,18 +3121,18 @@ input, select, textarea {
 		font-size: 1.5em;
 		font-weight: 700;
 		background-attachment: fixed,							fixed,							fixed;
-		background: url("/Volumes/Garcia HD/Portfolio {Code}/The High Score/assets/css/images/Mario Footer (1).jpg");
+		
 		background-position:left bottom,						center bottom,					center bottom;
 		background-size: auto,							cover,							cover;
 		text-align: center;
 	}
 
 		#footer a {
-			border-bottom-color: rgba(0, 0, 0, 0.5);
+			border-bottom-color: rgb(255, 249, 249);
 		}
 
 			#footer a:hover {
-				color: #ffffff;
+				color: #0a0a0a;
 			}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b {
