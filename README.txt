@@ -1,1 +1,1 @@
-The High Score arcade website.
+The High Score arcade website for a client. 
